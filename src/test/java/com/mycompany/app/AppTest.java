@@ -34,7 +34,7 @@ public class AppTest
     {
         App.main(null);
         try {
-            assertEquals("Hello World welcome to GIT Training!" + System.getProperty("line.separator"), outContent.toString());
+            assertEquals("Hello World welcome to GIT Training by Ataullah!" + System.getProperty("line.separator"), outContent.toString());
         } catch (AssertionError e) {
             fail("\"message\" is not \"Hello World welcome to GIT Training!\"");
         }
