@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World welcome to GIT Training!";
+    private final String message = "Hello World welcome to GIT Training by Ataullah!";
 
     public App() {}
 
